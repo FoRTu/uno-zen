@@ -1649,13 +1649,13 @@ img.rounded {
 }
 
 .btn.secondary {
-    border-color: #FFC107;
-    color: #FFC107
+    border-color: #FFFFFF;
+    color: #FFFFFF;
 }
 
 .btn.secondary:hover {
-    border-color: #b98b00;
-    color: #b98b00
+    border-color: #FF317A;
+    color: #FF317A
 }
 
 #menu-button {
@@ -2299,7 +2299,7 @@ div.prism-show-language>div.prism-show-language-label[data-language] {
 
 .navigation.left .links>li>a:hover {
     opacity: 1;
-    color: #416DDB
+    color: #7A98E5
 }
 
 .navigation.right {
@@ -2326,7 +2326,7 @@ div.prism-show-language>div.prism-show-language-label[data-language] {
 
 .navigation.right .social.item a:hover {
     opacity: 1;
-    color: #416DDB
+    color: #94ACEA
 }
 
 .navigation.right .social.item a .label {
@@ -2548,7 +2548,7 @@ body[data-page=error]>article {
 
 #search-field:focus,
 #search-field:hover {
-    border: 1.5px solid #ed7669
+    border: 1.5px solid #94ACEA
 }
 
 #search-results {
@@ -2679,7 +2679,7 @@ body[data-page=error]>article {
         box-shadow: 11px -10px 1px -9px #ddd
     }
     .cover.animated {
-        transition: all 350ms
+        transition: all 400ms
     }
     .profile {
         width: 100%;
